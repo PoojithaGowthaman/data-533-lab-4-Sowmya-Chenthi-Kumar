@@ -1,0 +1,99 @@
+$ git log --since=2.weeks
+commit e1eb756684a8670f147abd44fc5aa453e24e1678 (HEAD -> main, origin/main, origin/HEAD)
+Author: yatinbehl <yatin.behl@gmail.com>
+Date:   Wed Dec 9 16:39:46 2020 -0800
+
+    Removed Test_suite
+
+commit a2cda8ee4d98e9f4fdef55db1e190279edbd2c95
+Merge: c169476 d73d322
+Author: yatinbehl <yatin.behl@gmail.com>
+Date:   Wed Dec 9 16:36:47 2020 -0800
+
+    Manual_suit added
+
+commit c16947677093b8e378ac5ab64ee22cf8a8bcfd59
+Author: yatinbehl <yatin.behl@gmail.com>
+Date:   Wed Dec 9 16:32:25 2020 -0800
+
+    manual_suit added
+
+commit d73d322009c1444f73e7d3b89c4770738285cb08
+Author: Sowmya Chenthi <rcksowbhi7896@gmail.com>
+Date:   Wed Dec 9 16:26:19 2020 -0800
+
+    Upadted suite
+
+commit 7cea964dd46652f1dc4640bfe382de9abe656d1b
+Merge: 8463870 6cea23c
+Author: yatinbehl <yatin.behl@gmail.com>
+Date:   Wed Dec 9 15:58:44 2020 -0800
+
+    accept changes
+
+commit 6cea23c998f86563cfb51e487c6810956e4eb683 (origin/Sowmya_LAB3, Sowmya_LAB3)
+Author: Sowmya Chenthi <rcksowbhi7896@gmail.com>
+Date:   Wed Dec 9 15:45:29 2020 -0800
+
+    Upadates
+
+commit 84638706a2736c247fee92e6915363aa5404eb41 (origin/Yatin_Lab3)
+Author: yatinbehl <yatin.behl@gmail.com>
+Date:   Wed Dec 9 15:39:49 2020 -0800
+
+    Dec 9 commit
+
+commit 69f9c2045d3bd17602e5ff04a35db3718f1db77c
+Author: Sowmya Chenthi <rcksowbhi7896@gmail.com>
+:
+
+mural@DESKTOP-59UKBIJ MINGW64 ~/DATA533_LAB4 (main)
+$ git log
+commit 61c870610def7ab1c3624faed6e10c85c57a853f (HEAD -> main, origin/main, origin/HEAD)
+Author: Sowmya Chenthi <rcksowbhi7896@gmail.com>
+Date:   Fri Dec 18 13:48:30 2020 -0800
+
+    Added the project folder
+
+commit b92844e51af666de481029088eade5f2afbf5811
+Merge: 03af2b7 0579a4c
+Author: yatinbehl <yatin.behl@gmail.com>
+Date:   Fri Dec 18 13:17:35 2020 -0800
+
+    merge branch
+
+commit 0579a4c7ee767e08d878f691bb94234f45f401d0
+Merge: 9e64e7b 0078380
+Author: Sowmya Chenthi <rcksowbhi7896@gmail.com>
+Date:   Fri Dec 18 13:10:54 2020 -0800
+
+    Merge branch 'Sowmya_LAB4' into main
+
+commit 03af2b7e255b77d605a141f86c17a6aef06e90e0
+Author: yatinbehl <yatin.behl@gmail.com>
+Date:   Fri Dec 18 13:04:16 2020 -0800
+
+    added more
+
+commit c6bfa031dc9ba062eadfa52989dbcf43bc28055b
+Author: yatinbehl <yatin.behl@gmail.com>
+Date:   Fri Dec 18 13:02:10 2020 -0800
+
+    added empty textfile
+
+commit ea5204c5c858aecd40677dbd17684e53f91634ce
+Author: yatinbehl <yatin.behl@gmail.com>
+Date:   Fri Dec 18 12:24:44 2020 -0800
+
+    delete .DS
+
+commit 00783800c0da52d2ac4f2f23d854fab499aa1035 (origin/Sowmya_LAB4, Sowmya_LAB4)
+Author: Sowmya Chenthi <rcksowbhi7896@gmail.com>
+Date:   Sun Dec 13 18:26:17 2020 -0800
+
+    Add
+
+commit 95fa30c145546b80ebff70c41197fbc9db015e54
+Author: yatinbehl <yatin.behl@gmail.com>
+:
+
